@@ -12,7 +12,10 @@ const header = () => {
         <div className='me'>
           <img src={ME} alt='me' />
         </div>
+        
       </div>
+
+     
     </header>
   );
 };

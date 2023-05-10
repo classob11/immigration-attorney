@@ -12,8 +12,8 @@ header {
 
 
 .me {
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 5rem;

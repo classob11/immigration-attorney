@@ -60,7 +60,7 @@ const about = () => {
       <br/>
       
       <h5>Get To Know</h5>
-      <h2>Verónica Navarro Troncoso </h2>
+      <h2>Nancy Viña Barrera</h2>
       <div className='container about__container'>
         <div className='about__me'>
           <div className='about__me-image2'>
@@ -107,7 +107,7 @@ const about = () => {
       <br/>
       
       <h5>Get To Know</h5>
-      <h2>Nancy Viña Barrera </h2>
+      <h2>Verónica Navarro Troncoso  </h2>
       <div className='container about__container'>
         <div className='about__me'>
           <div className='about__me-image2'>
