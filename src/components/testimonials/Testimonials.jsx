@@ -2,6 +2,7 @@ import React from 'react'
 import "./testimonial.css"
 import { Data } from "./Data"
 import { Swiper, SwiperSlide } from "swiper/react";
+import {RiStarSFill} from "react-icons/ri";
 
 // Import Swiper styles
 import "swiper/css";
@@ -18,8 +19,8 @@ const Testimonials = () => {
       <br/>
       <br/>
       <br/>
-      <h5 >Testimonial</h5>
-      <h2 >My clients say</h2>
+      <h5 ></h5>
+      <h2 >Qualification</h2>
 
       <Swiper className='testimoial__container'
         loop = {true}
@@ -46,6 +47,10 @@ const Testimonials = () => {
                 className='testimonial__img' />
               <h3 className='testimonial__name'>{title}</h3>
               <p className='testimonial__description'>{Descripcion}</p>
+              <RiStarSFill className='about__icon'/>
+              <RiStarSFill className='about__icon'/>
+              <RiStarSFill className='about__icon'/>
+              <RiStarSFill className='about__icon'/>  
             </SwiperSlide>
           )
         })}

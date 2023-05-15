@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import ME from "../../assets/Edgar.jpg";
-import ME2 from "../../assets/veronica.jpg";
+import ME2 from "../../assets/soto.jpg";
 import ME3 from "../../assets/Nancy.jpg";
 import { RiAwardFill } from "react-icons/ri";
 import { FaUserGraduate } from "react-icons/fa";
@@ -60,7 +60,7 @@ const about = () => {
       <br/>
       
       <h5>Get To Know</h5>
-      <h2>Nancy Viña Barrera</h2>
+      <h2>Marianne Soto Torres</h2>
       <div className='container about__container'>
         <div className='about__me'>
           <div className='about__me-image2'>
@@ -95,7 +95,7 @@ const about = () => {
             <article className='about__card'>
               <BsWhatsapp className='about__icon' />
               <h5>Contact</h5>
-              <small>998 845 5848</small>
+              <small>998 200 2415</small>
             </article>
           </div>
         </div>
