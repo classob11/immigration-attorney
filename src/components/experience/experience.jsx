@@ -16,7 +16,7 @@ const experience = () => {
             <article className='experince__details'>
               <HiShieldCheck className='experince__details-icon' />
               <div>
-                <h4>To be an immigration law firm, consolidating its growth with experience and professional efficiency, offering a comprehensive quality service in legal advice and consultancy, with recognized prestige for its values and proven effectiveness.</h4>
+                <h4>To provide exceptional quality services, exceeding our clients' expectations and providing effective solutions to their needs. We strive to be leaders in our field, maintaining high ethical standards and professionalism in every interaction.</h4>
                
               </div>
             </article>
@@ -31,7 +31,7 @@ const experience = () => {
               <HiShieldCheck className='experince__details-icon' />
               <div>
                 <center>
-                <h4>Being a law firm recognized for its high quality in immigration assistance and the professionalism of its members, providing security and confidence through comprehensive solutions tailored to the needs of each client, with the commitment to success in their business.</h4>
+                <h4>To be recognized as the service provider of choice for our excellence, reliability and commitment to customer satisfaction. We seek to establish long-term relationships with our clients, based on trust and the consistent delivery of exceptional results. We strive to grow and expand our reach by providing world-class services nationally and internationally.</h4>
                 </center>
               </div>
             </article>
